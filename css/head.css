@@ -1,0 +1,21 @@
+.nav2-icons{
+    font-size: 20px;
+}
+.cate-but{
+    padding: 0 32px;
+}
+.categories>ul>li>a{
+    color:white;
+}
+.navbar-collapse{
+    flex-grow:0 !important;
+}
+.btnStyle{
+	background: #345B63;
+	color: #fff;
+}
+.btnStyle:hover{
+	background-color: transparent;
+	color: #345B63;
+	border: 1px solid #345B63;
+}
